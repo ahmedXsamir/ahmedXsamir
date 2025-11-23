@@ -26,17 +26,18 @@
 <div align="center">
 
   <!-- First image -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsamirdev-pixel&show_icons=true&locale=en&layout=compact" />
-
-  <br/><br/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsamirdev-pixel&show_icons=true&locale=en&layout=compact" 
+    style="margin-right: 20px;" 
+  />
 
   <!-- Second image -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedsamirdev-pixel&show_icons=true&locale=en" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ahmedsamirdev-pixel&show_icons=true&locale=en" 
+  />
   
-  <br/><br/>
+  <br/>
   
-  <!-- Third image -->
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsamirdev-pixel&" alt="ahmedsamirdev-pixel" /></p>:
 
 </div>
 
