@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Samir</h1>
 <h3 align="center">A passionate backend developer from egypt</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AhmedSamirDev-pixel](https://github.com/ahmedXsamirl)
+- 👨‍💻 All of my projects are available at [https://github.com/ahmedXsamir](https://github.com/ahmedXsamir)
 
-- 📫 How to reach me **ahmedsamir.dev.30@gmail.com**
+- 📫 How to reach me **ahmedsamirrashid22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Gk4_6u7zIAJX7SJlIWIUctf8ExaRbkt0/view?usp=drive_link](https://drive.google.com/file/d/1Gk4_6u7zIAJX7SJlIWIUctf8ExaRbkt0/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FcGB4y67hvM__EaJr6zJqqYRfBrZtoPX/view?usp=sharing](https://drive.google.com/file/d/1FcGB4y67hvM__EaJr6zJqqYRfBrZtoPX/view?usp=sharing)
 
 ---
 
